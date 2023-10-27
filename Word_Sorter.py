@@ -6,6 +6,7 @@ while True:
         break
     names.append(name)
 
+#sort the names in alphabetical order
 sorted_names = sorted(names)
 
 
