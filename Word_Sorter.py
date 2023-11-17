@@ -7,7 +7,7 @@ while True:
         break
     names.append(name)
 
-#sort the names in alphabetical order
+# Sorts the names in Alphabetical order
 sorted_names = sorted(names)
 
 
