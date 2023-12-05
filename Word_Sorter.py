@@ -1,4 +1,4 @@
-#Add the names which needs to be sorted
+# Add the names into the  which needs to be sorted
 names = []
 while True:
     # Asks the user for the input name
