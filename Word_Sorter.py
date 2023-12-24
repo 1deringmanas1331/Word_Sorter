@@ -1,7 +1,7 @@
 # Add the names into the list which needs to be sorted
 names = []
 while True:
-    # Asks the user for the input names and adds it to the 
+    # Asks the user for the input names and adds it to the list
     name = input("Enter a name (or press Enter to finish): ")
     if name == "":
         break
